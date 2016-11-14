@@ -1,0 +1,36 @@
+h1{
+    
+    
+    font-size: 20px;
+     
+    
+}
+
+
+#picture{
+  
+  height: 175px;
+  width: 700px;
+  background-image: url(world.jpg); 
+  text-align:  center;
+  color: white;
+  border-radius: 25px;
+  font-family: cursive;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 40px;
+
+}
+#controls{
+    
+     margin-left: 500px;
+    
+    
+    
+}
+#result{
+    
+    margin-left: 500px;
+    margin-top:  50px;
+    
+}
